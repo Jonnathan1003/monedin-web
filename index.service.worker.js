@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794571360|5474332';
+const CACHE_VERSION = '1794669414|3627271';
 /** @type {string} */
-const CACHE_PREFIX = 'Monedín-sw-cache-';
+const CACHE_PREFIX = 'Monedín 2-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
